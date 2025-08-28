@@ -8,6 +8,7 @@ A simple Python command-line implementation of the classic Rock-Paper-Scissors g
 - Play multiple rounds
 - Score tracking for both player and computer
 - Final winner announced at the end
+- Object-Oriented design for better structure and scalability
 
 ## Installation
 
@@ -44,6 +45,3 @@ You win this round!
 🎉 You won the game!
 ```
 
-## Future Improvements
-
-- Refactor to OOP design for better structure and scalability
