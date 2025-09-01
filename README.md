@@ -9,6 +9,7 @@ A simple Python command-line implementation of the classic Rock-Paper-Scissors g
 - Score tracking for both player and computer
 - Final winner announced at the end
 - Object-Oriented design for better structure and scalability
+- Supports human vs. human or human vs. computer gameplay
 
 ## Installation
 
@@ -38,10 +39,10 @@ How many rounds do you want to play? 1
 
 1)Rock  2)Paper  3)Scissors
 Choose your move: 1
-You chose Rock, Computer chose Scissors
-You win this round!
+Alice chose Rock, Computer chose Scissors
+Alice wins this round!
 
 === Game Over ===
-🎉 You won the game!
+🎉 Alice won the game!
 ```
 
